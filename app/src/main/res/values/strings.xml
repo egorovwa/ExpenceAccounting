@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpenceAccounting</string>
+    <string name="home_screen_title">"Your expenses by day "</string>
+    <string name="back_button">Back</string>
+</resources>
